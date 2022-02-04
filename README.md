@@ -27,6 +27,6 @@ Once the buttons are created play around to see how you can update the state of 
 
 To accept my challange:
 
-After you have cloned down the project, create a new branch, and get to work. If you have Questions, or Want to show me your finihed product you can email me.
+After you have cloned down the project, create a new branch, and get to work. If you have Questions, or Want to show me your version of the product you can email me.
 
 #HappyCoding
