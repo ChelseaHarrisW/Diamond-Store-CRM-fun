@@ -6,11 +6,11 @@ a deeper knowlage of de-bugging, iteration, customizing the click events, managi
 
 <img width="1299" alt="Screen Shot 2022-02-04 at 9 36 31 AM" src="https://user-images.githubusercontent.com/90797657/152557195-184f76b2-d153-4d9c-aaae-dd5e49ace5ac.png">
 
-# Minimally Viable Product for a refference of what the site should offer visually when served.
+# Minimally Viable Product when served.
 
 <img width="1338" alt="Screen Shot 2022-02-04 at 9 43 16 AM" src="https://user-images.githubusercontent.com/90797657/152558358-991a8a3a-c38b-4d4c-ad84-f749bc08a813.png">
 
-# To serve the project
+# To serve the project:
 
 1. open your Terminal, and Run the git clone command, followed by the SSH key which can be found when clicking the code button on the top right corner of the repository.
 2. the clone is compleated, you should be able to change directories (the CD comand) into the Diamond-Store-CRM-fun project
@@ -18,7 +18,7 @@ a deeper knowlage of de-bugging, iteration, customizing the click events, managi
 
 I appreciate you Reading my README. up into this point!
 
-For all my Coder's if you would like a challange  😎 (I know you do we have to stay sharp out here 😏)
+# Code Challange  😎 (We have to stay sharp out here 😏)
 
 Try adding Radio buttons to the project for customers to select what type of jewlry they would like to customize (visual below):
 <img width="248" alt="Screen Shot 2022-02-04 at 9 59 08 AM" src="https://user-images.githubusercontent.com/90797657/152560920-ee30ce88-d2ad-46ee-9034-60628f83d9da.png">
