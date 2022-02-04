@@ -6,7 +6,7 @@ a deeper knowlage of de-bugging, iteration, customizing the click events, managi
 
 <img width="1299" alt="Screen Shot 2022-02-04 at 9 36 31 AM" src="https://user-images.githubusercontent.com/90797657/152557195-184f76b2-d153-4d9c-aaae-dd5e49ace5ac.png">
 
-This is also what my application produced at a minimally viable level for a refference of what the site should offer visually when served.
+# This is also what my application produced at a minimally viable level for a refference of what the site should offer visually when served.
 
 <img width="1338" alt="Screen Shot 2022-02-04 at 9 43 16 AM" src="https://user-images.githubusercontent.com/90797657/152558358-991a8a3a-c38b-4d4c-ad84-f749bc08a813.png">
 
